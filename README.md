@@ -1,6 +1,6 @@
 # pzdungeons.github.io
 [PZDUNGEONS iOS website](https://pzdungeons.github.io/pzdungeons)
-[Privacy Policy](https://pzdungeons.github.io/pzdungeons)
+[Privacy Policy](https://github.com/pzdungeons/pzdungeons.github.io/blob/master/PrivacyPolicy.md)
 
 ASSETS:
 * PROVIDED BY https://itch.io
